@@ -1,0 +1,53 @@
+h4{
+    margin-left: 3px;
+}
+
+img{
+    border:solid 2px black;
+    cursor: pointer;
+}
+
+img:hover{
+    border-color: grey;
+}
+
+#myboard{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin-top: 5%;
+    margin-left: 10%;
+    border: solid 5px mediumturquoise;
+}
+
+#UI{
+    display: inline-block;
+    width: 200px;
+    height: 400px;
+    margin-top: 5%;
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: gainsboro;
+    vertical-align: top;
+    border: solid 3px darkgray;
+}
+
+#start{
+    margin-left: 38%;
+    margin-top: 5%;
+}
+
+#loading{
+    text-align: center;
+    margin-top: 10%;
+    color: red;
+}
+
+#opboard{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin-right: 7%;
+    margin-top: 5%;
+    border: solid 5px mediumturquoise;
+}
